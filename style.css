@@ -16,6 +16,8 @@ body{
 .background{
     background-color: rgb(0, 81, 255);
     border-radius: 10px;
+}
+.itemrow{
     display: flex;
     align-items: center;
     justify-content: center;
