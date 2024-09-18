@@ -22,33 +22,38 @@ body{
     align-items: center;
     justify-content: center;
 }
-.background{
+.shopbackground{
     background-color: rgb(9, 87, 255);
     border-radius: 10px;
 }
 .itemrow{
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: cen
 }
-.one{
+.flowberry{
     border-radius: 10px;
     margin:10px;
     height:400px
 }
-.two{
+.scythe{
+    border-radius: 10px;
+    margin:10px;
+    height:400px
+}
+.vbuck{
     height:25px;
     border-radius: 10px;
     margin:10px;
 }
-.four{
+.slurpfish{
     height:400px;
     background-color: rgb(252, 122, 0);
     background-image: linear-gradient(to bottom left, rgb(0, 255, 98), rgb(0, 247, 255));
     border-radius: 10px;
     margin:10px;
 }
-.three{
+.galgas{
     height:400px;
     background-color: rgb(252, 122, 0);
     background-image: linear-gradient(to bottom left, rgb(255, 238, 0), rgb(255, 123, 0));
@@ -68,3 +73,4 @@ body{
     border-radius: 10px;
     margin:10px;
 }
+
