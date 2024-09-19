@@ -25,11 +25,14 @@ body{
 .shopbackground{
     background-color: rgb(9, 87, 255);
     border-radius: 10px;
+    min-width: 80%;
+    min-height: 50%;
 }
 .itemrow{
     display: flex;
     align-items: center;
-    justify-content: cen
+    justify-content: center;
+    min-width: fit-content;
 }
 .flowberry{
     border-radius: 10px;
@@ -39,7 +42,7 @@ body{
 .scythe{
     border-radius: 10px;
     margin:10px;
-    height:400px
+    height:400px;
 }
 .vbuck{
     height:25px;
