@@ -85,3 +85,28 @@ body{
     margin:10px;
 }
 
+
+.inputa {
+    background-color: rgb(195, 0, 255);
+    font-family:"Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.inputb{
+    background-color: gold;
+    font-family:"Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.inputc{
+    background-color: rgb(0, 247, 255);
+    font-family:"Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.inputd{
+    background-color: orange;
+    font-family:"Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
